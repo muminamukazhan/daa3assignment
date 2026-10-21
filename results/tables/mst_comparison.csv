@@ -1,0 +1,7 @@
+V,E,algorithm,avg_time_us,total_weight,connected,edges_examined,comparisons,dsu_finds,dsu_unions,heap_pushes,heap_polls
+10,30,Kruskal,42.567,163,true,9,110,18,9,0,0
+10,30,Prim,83.500,163,true,60,208,0,0,30,30
+100,500,Kruskal,592.767,1186,true,192,3826,384,192,0,0
+100,500,Prim,1215.542,1186,true,1000,7780,0,0,500,500
+1000,5000,Kruskal,1787.517,12086,true,2810,50488,5620,2810,0,0
+1000,5000,Prim,2109.358,12086,true,10000,111332,0,0,5000,5000

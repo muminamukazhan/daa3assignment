@@ -1,0 +1,4 @@
+V,E,avg_time_us,components,largest_component,edges_examined
+10,30,20.500,3,8,60
+100,500,213.142,2,99,1000
+1000,5000,1815.950,15,986,10000

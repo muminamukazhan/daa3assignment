@@ -1,0 +1,9 @@
+n,path_compression,union_by_rank,avg_time_us,parent_steps
+100,false,false,33.134,4950
+100,false,true,10.383,197
+100,true,false,12.099,197
+100,true,true,10.683,197
+1000,false,false,2245.025,499500
+1000,false,true,97.408,1997
+1000,true,false,110.025,1997
+1000,true,true,102.658,1997

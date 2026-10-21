@@ -1,0 +1,4 @@
+V,E,avg_time_us,reachable,edges_examined,relaxations,heap_pushes,heap_polls,comparisons
+10,30,17.258,8,23,9,10,10,23
+100,500,191.600,100,500,152,153,153,1594
+1000,5000,1819.417,996,4980,1462,1463,1463,24582

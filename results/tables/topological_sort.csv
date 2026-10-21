@@ -1,0 +1,10 @@
+V,E,input,avg_time_us,is_dag,ordered_vertices,blocked_vertices,edges_examined
+10,30,dag,13.725,true,10,0,60
+10,30,one_cycle,3.925,false,0,10,30
+10,30,random_directed,7.741,false,0,8,37
+100,500,dag,130.517,true,100,0,1000
+100,500,one_cycle,43.659,false,0,100,500
+100,500,random_directed,43.017,false,0,100,500
+1000,5000,dag,835.350,true,1000,0,10000
+1000,5000,one_cycle,134.925,false,0,1000,5000
+1000,5000,random_directed,103.325,false,0,996,5020
